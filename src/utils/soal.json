@@ -27,35 +27,5 @@
       "gambar": "/SoalTebakGambar/Soal 18.png",
       "jawaban": "Perintah Komandan"
     }
-  ],
-  "5": [
-    { "gambar": "/SoalTebakGambar/Soal 21.png", "jawaban": "Boneka Salju" },
-    { "gambar": "/SoalTebakGambar/Soal 22.png", "jawaban": "Kue Jahe" },
-    {
-      "gambar": "/SoalTebakGambar/Soal 23.png",
-      "jawaban": "Buah Tangan"
-    },
-    { "gambar": "/SoalTebakGambar/Soal 24.png", "jawaban": "Bintang Kelas" },
-    { "gambar": "/SoalTebakGambar/Soal 25.png", "jawaban": "Jantung Kota" }
-  ],
-  "6": [
-    { "gambar": "/SoalTebakGambar/Soal 26.png", "jawaban": "Kumis Kucing" },
-    { "gambar": "/SoalTebakGambar/Soal 27.png", "jawaban": "Lapang Dada" },
-    {
-      "gambar": "/SoalTebakGambar/Soal 28.png",
-      "jawaban": "Tulang Ikan"
-    },
-    { "gambar": "/SoalTebakGambar/Soal 29.png", "jawaban": "Bunga Desa" },
-    { "gambar": "/SoalTebakGambar/Soal 30.png", "jawaban": "Cuci Otak" }
-  ],
-  "7": [
-    { "gambar": "/SoalTebakGambar/Soal 31.png", "jawaban": "Kutu Buku" },
-    { "gambar": "/SoalTebakGambar/Soal 32.png", "jawaban": "Tangan Kanan" },
-    {
-      "gambar": "/SoalTebakGambar/Soal 33.png",
-      "jawaban": "Tikus Berdasi"
-    },
-    { "gambar": "/SoalTebakGambar/Soal 34.png", "jawaban": "Cari Muka" },
-    { "gambar": "/SoalTebakGambar/Soal 35.png", "jawaban": "Otak Udang" }
   ]
 }
